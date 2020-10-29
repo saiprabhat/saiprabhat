@@ -12,9 +12,17 @@
 ### Connect with me:
 
 [<img align="left" alt="saiprabhat | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="saiprabhat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/prabhat-reddy/]
-[<img align="left" alt="saiprabhat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/masaaldosey/]
+[<img align="left" alt="saiprabhat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="saiprabhat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="saiprabhat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saiprabhat&show_icons=true&hide_border=true" />
+</details>
 
-<img align="left" alt="saiprabhat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=saiprabhat&show_icons=true&hide_border=true" />
+
+[website]: https://saiprabhat.github.io/
+[twitter]: https://twitter.com/masaaldosey
+[instagram]: https://www.instagram.com/masaaldosey/
+[linkedin]: https://www.linkedin.com/in/prabhat-reddy/
