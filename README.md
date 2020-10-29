@@ -1,7 +1,7 @@
 ### Hi there, I am Prabhat 👋
 
-[![Website](https://img.shields.io/badge/Soliloquies-UP-brightgreen)](https://saiprabhat.github.io/)
-[![Twitter Follow](https://twitter.com/masaaldosey)](https://twitter.com/masaaldosey)
+[![Website](https://img.shields.io/website?label=Soliloquies&style=for-the-badge&url=https%3A%2F%2Fsaiprabhat.github.io%2F)](https://saiprabhat.github.io/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/masaaldosey?logo=twitter&style=for-the-badge)](https://twitter.com/masaaldosey)
 
 ## I am a Student, Gamer and PUNster!!
 
