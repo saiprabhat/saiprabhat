@@ -21,8 +21,6 @@
 --- 
 
 ![Prabhat's github stats](https://github-readme-stats.vercel.app/api?username=saiprabhat&count_private=true&theme=algolia&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiprabhat&layout=compact)](https://github.com/saiprabhat/github-readme-stats)
-[![Prabhat's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saiprabhat)](https://github.com/saiprabhat/github-readme-stats)
 
 
 [website]: https://saiprabhat.github.io/
