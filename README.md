@@ -5,8 +5,8 @@
 
 ## I am a Student and Gamer
 
-- 🌱 Currently learning everything 
-- 🥅 2020 Goals: Read atleast 20 books
+- 🌱 Currently learning everything I can 
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play sports or games!
 
 ### Connect with me:
