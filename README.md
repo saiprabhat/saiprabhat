@@ -1,6 +1,6 @@
 ### Hi there, I am Prabhat 👋
 
-[![Website](https://img.shields.io/website?label=Soliloquies&style=for-the-badge&url=https%3A%2F%2Fsaiprabhat.github.io%2F)](https://saiprabhat.github.io/)
+[![Website](https://img.shields.io/website?label=PRABHAT&logo=MEDIUM&style=for-the-badge&url=https%3A%2F%2Fsaiprabhat.medium.com%2F)](https://saiprabhat.medium.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/masaaldosey?logo=twitter&style=for-the-badge)](https://twitter.com/masaaldosey)
 
 ## I am a Student and Gamer
@@ -23,7 +23,7 @@
 ![Prabhat's github stats](https://github-readme-stats.vercel.app/api?username=saiprabhat&count_private=true&theme=algolia&show_icons=true)
 
 
-[website]: https://saiprabhat.github.io/
+[website]: https://saiprabhat.medium.com/
 [twitter]: https://twitter.com/masaaldosey
 [instagram]: https://www.instagram.com/masaaldosey/
 [linkedin]: https://www.linkedin.com/in/prabhat-reddy/
