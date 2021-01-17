@@ -1,7 +1,7 @@
 ### Hi there, I am Prabhat 👋
 
 [![Website](https://img.shields.io/website?label=PRABHAT&logo=MEDIUM&style=for-the-badge&url=https%3A%2F%2Fsaiprabhat.medium.com%2F)](https://saiprabhat.medium.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/masaaldosey?logo=twitter&style=for-the-badge)](https://twitter.com/masaaldosey)
+[![Twitter Follow](https://img.shields.io/twitter/follow/wotrasiprabhat?logo=twitter&style=for-the-badge)](https://twitter.com/masaaldosey)
 
 ## I am a Student and Gamer
 
@@ -24,6 +24,6 @@
 
 
 [website]: https://saiprabhat.medium.com/
-[twitter]: https://twitter.com/masaaldosey
-[instagram]: https://www.instagram.com/masaaldosey/
+[twitter]: https://twitter.com/wotrasiprabhat
+[instagram]: https://www.instagram.com/wotrasiprabhat/
 [linkedin]: https://www.linkedin.com/in/prabhat-reddy/
