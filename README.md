@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=PRABHAT&logo=MEDIUM&style=for-the-badge&url=https%3A%2F%2Fsaiprabhat.medium.com%2F)](https://saiprabhat.medium.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/masaaldosey?label=%40masaaldosey&logo=twitter&style=for-the-badge)](https://twitter.com/masaaldosey)
 
-## I am a Student and Gamer
+## I like to indulge in math, computers, movies and video games.
 
 - 🌱 Currently learning everything I can 
 - 🥅 2021 Goals: Contribute more to Open Source projects
